@@ -26,7 +26,7 @@
 
 \RequirePackage{fancyhdr}
 
-\RequirePackage{xcolor}
+\RequirePackage[dvipsnames]{xcolor}
 \RequirePackage{colortbl}
 \RequirePackage{array}
 
