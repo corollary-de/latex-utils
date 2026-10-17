@@ -53,6 +53,7 @@
 \makeatother
 \fancyhead[C]{\textsc{\large \textbf{\sectionname}}\gdef\sectionname{}}
 \fancyhead[R]{\textbf{\normalsize \thepage}}
+\fancyfoot[C]{}
 
 
 \makeatletter
